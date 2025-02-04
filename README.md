@@ -1,11 +1,26 @@
 # Calculadora IMC
-Desc
+ <strong>Projeto de calculadora IMC no android nativo usando Kotlin 🚀 </strong>
 
 ## :camera_flash: Screenshots
-<!-- You can add more screenshots here if you like -->
-Screenshots
+
+<img src="https://github.com/user-attachments/assets/56e900b2-64e4-4335-8c47-7d276d8901f3" width="250px">
+<img src="https://github.com/user-attachments/assets/1025fcdf-fd4f-4675-9633-0e1202957ed1" width="250px">
+
+
 
 ## Tecnologias
+  - Activity
+  - Intent
+  - SnackBar
+  - ViewGroups
+    - LinearLayout
+    - ConstraintLayout
+  - Views
+    - ImageView
+    - TextView
+    - EditText
+    - Button 
+
 Techs
 
 
@@ -13,7 +28,7 @@ Techs
 ```
 The MIT License (MIT)
 
-Copyright (c) 2023 Roque Buarque Junior
+Copyright (c) 2025 Roque Buarque Junior
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in
